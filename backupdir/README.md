@@ -43,7 +43,7 @@ s.n. dasgupta
 cat < file1
 ## OUTPUT
 
-![](/IMG/output1.png)
+![](/home/naveen140419/os/EXP01/OS-Linux-commands-Shell-script/IMG/output1.png)
 
 
 cat < file2
